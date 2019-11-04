@@ -1,0 +1,83 @@
+body {
+	background-color:#847E89;
+	color:#35281D;
+	font-family: 'Noto Serif', serif;
+	font-size: 15px;
+	font-weight: 600;
+	margin: 30px 30px 30px 30px;
+}
+h1 {color :#A63446 ; 
+font-family: 'ZCOOL XiaoWei', serif;
+font-size: 30px; 
+margin: 10px 190px 10px 190px
+}
+h2 {color :#A63446 ;
+font-family :'ZCOOL XiaoWei', serif;
+font-size: 25px;
+font-weight : lighter}
+
+ul{ font-weight: 180 }
+
+#logo{
+width: 200px;
+margin: 10px 200px 10px 200px;
+border-radius: 3px;
+padding: 1px;   
+}
+
+#ban{background: #EFEFEF;
+ padding: 20px;
+ margin: 10px 250px 10px 250px;
+ box-shadow: 0px 10px 10px rgba(0,0,0,0.2);
+ border-radius: 3px;
+ width: 600px; 
+ margin-right:200;
+ text-align: center; 
+}
+
+.linkedin i{ 
+font-size: 40px;
+color :#A63446; 
+margin: 5px 200px 5px 180px;
+}
+
+#for{background: #EFEFEF;
+ padding: 20px;
+ margin: 10px 10px 15px 10px;
+ box-shadow: 0px 10px 10px rgba(0,0,0,0.2);
+ border-radius: 3px;
+ width: 500px;
+ float: left; }
+#exp{background: #EFEFEF;
+ padding: 20px;
+ margin: 10px 50px 10px 10px;
+ box-shadow: 0px 10px 10px rgba(0,0,0,0.2);
+ border-radius: 3px;
+ width: 500px; 
+ float: right}
+
+ #cen{background: #EFEFEF;
+ padding: 20px;
+ margin: 15px 10px 10px 10px;
+ box-shadow: 0px 10px 10px rgba(0,0,0,0.2);
+ border-radius: 3px;
+ width: 500px;
+ float: left}
+
+#fr{background: #EFEFEF;
+	padding: 20px;
+ margin: 15px 10px 10px 10px;
+ box-shadow: 0px 10px 10px rgba(0,0,0,0.2);
+ border-radius: 3px;
+ width: 500px;
+ float: left
+}
+
+#au{background: #EFEFEF; 
+	padding: 20px;
+ margin: 10px 50px 10px 10px;
+ box-shadow: 0px 10px 10px rgba(0,0,0,0.2);
+ border-radius: 3px;
+ width: 500px;
+ float: right;}
+
